@@ -2,6 +2,10 @@
 
 A Machine Learning and NLP based web application that predicts whether an SMS message is **Spam** or **Ham (Not Spam)**.
 
+## Live Demo
+
+[Try the App Here](https://sms-spam-detection-akash.streamlit.app/)
+
 ## Project Preview
 
 ![Project Screenshot](spam_detector_screenshot.png)
