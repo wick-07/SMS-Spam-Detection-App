@@ -4,7 +4,7 @@ A Machine Learning and NLP based web application that predicts whether an SMS me
 
 ## Project Preview
 
-(Add screenshot here later)
+![Project Screenshot](spam_detector_screenshot.png)
 
 ## Features
 
@@ -12,7 +12,7 @@ A Machine Learning and NLP based web application that predicts whether an SMS me
 - Clean and simple Streamlit UI
 - Text preprocessing using NLP
 - TF-IDF Vectorization
-- Trained using Multinomial Naive Bayes
+- Trained using Random Forest Classifier
 
 ## Tech Stack
 
